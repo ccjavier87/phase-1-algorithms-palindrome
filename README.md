@@ -19,7 +19,7 @@ reads the same forwards and backwards, like `"mom"` or `"racecar"`), and return
 
 To keep things simple, your function only needs to deal with lowercase strings
 that are all letters (don't worry about spaces or special characters).
-
+ 
 Here are a few examples:
 
 ```txt
